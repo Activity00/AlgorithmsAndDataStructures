@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+project(AlgorithmsAndDataStructures)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(AlgorithmsAndDataStructures main.c binarytree.h)

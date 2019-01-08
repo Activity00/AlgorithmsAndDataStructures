@@ -3,4 +3,4 @@ project(AlgorithmsAndDataStructures)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(AlgorithmsAndDataStructures main.c binarytree.h)
+add_executable(AlgorithmsAndDataStructures main.c sort.c)
